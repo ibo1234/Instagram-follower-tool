@@ -1,2 +1,10 @@
 # Instagram-follower-tool
-Instagram Follower Tool!
+
+InstagramTool
+
+Type ID:
+
+Type Password:
+
+
+Followers:
